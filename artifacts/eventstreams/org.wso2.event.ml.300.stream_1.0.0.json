@@ -1,0 +1,1204 @@
+{
+  "name": "org.wso2.event.ml.300.stream",
+  "version": "1.0.0",
+  "nickName": "",
+  "description": "",
+  "payloadData": [
+    {
+      "name": "pixel142",
+      "type": "INT"
+    },
+    {
+      "name": "pixel143",
+      "type": "INT"
+    },
+    {
+      "name": "pixel144",
+      "type": "INT"
+    },
+    {
+      "name": "pixel145",
+      "type": "INT"
+    },
+    {
+      "name": "pixel146",
+      "type": "INT"
+    },
+    {
+      "name": "pixel147",
+      "type": "INT"
+    },
+    {
+      "name": "pixel148",
+      "type": "INT"
+    },
+    {
+      "name": "pixel149",
+      "type": "INT"
+    },
+    {
+      "name": "pixel150",
+      "type": "INT"
+    },
+    {
+      "name": "pixel151",
+      "type": "INT"
+    },
+    {
+      "name": "pixel152",
+      "type": "INT"
+    },
+    {
+      "name": "pixel153",
+      "type": "INT"
+    },
+    {
+      "name": "pixel154",
+      "type": "INT"
+    },
+    {
+      "name": "pixel155",
+      "type": "INT"
+    },
+    {
+      "name": "pixel156",
+      "type": "INT"
+    },
+    {
+      "name": "pixel157",
+      "type": "INT"
+    },
+    {
+      "name": "pixel158",
+      "type": "INT"
+    },
+    {
+      "name": "pixel159",
+      "type": "INT"
+    },
+    {
+      "name": "pixel160",
+      "type": "INT"
+    },
+    {
+      "name": "pixel161",
+      "type": "INT"
+    },
+    {
+      "name": "pixel162",
+      "type": "INT"
+    },
+    {
+      "name": "pixel163",
+      "type": "INT"
+    },
+    {
+      "name": "pixel164",
+      "type": "INT"
+    },
+    {
+      "name": "pixel165",
+      "type": "INT"
+    },
+    {
+      "name": "pixel166",
+      "type": "INT"
+    },
+    {
+      "name": "pixel167",
+      "type": "INT"
+    },
+    {
+      "name": "pixel169",
+      "type": "INT"
+    },
+    {
+      "name": "pixel170",
+      "type": "INT"
+    },
+    {
+      "name": "pixel171",
+      "type": "INT"
+    },
+    {
+      "name": "pixel172",
+      "type": "INT"
+    },
+    {
+      "name": "pixel173",
+      "type": "INT"
+    },
+    {
+      "name": "pixel174",
+      "type": "INT"
+    },
+    {
+      "name": "pixel175",
+      "type": "INT"
+    },
+    {
+      "name": "pixel176",
+      "type": "INT"
+    },
+    {
+      "name": "pixel177",
+      "type": "INT"
+    },
+    {
+      "name": "pixel178",
+      "type": "INT"
+    },
+    {
+      "name": "pixel179",
+      "type": "INT"
+    },
+    {
+      "name": "pixel180",
+      "type": "INT"
+    },
+    {
+      "name": "pixel181",
+      "type": "INT"
+    },
+    {
+      "name": "pixel182",
+      "type": "INT"
+    },
+    {
+      "name": "pixel183",
+      "type": "INT"
+    },
+    {
+      "name": "pixel184",
+      "type": "INT"
+    },
+    {
+      "name": "pixel185",
+      "type": "INT"
+    },
+    {
+      "name": "pixel186",
+      "type": "INT"
+    },
+    {
+      "name": "pixel187",
+      "type": "INT"
+    },
+    {
+      "name": "pixel188",
+      "type": "INT"
+    },
+    {
+      "name": "pixel189",
+      "type": "INT"
+    },
+    {
+      "name": "pixel190",
+      "type": "INT"
+    },
+    {
+      "name": "pixel191",
+      "type": "INT"
+    },
+    {
+      "name": "pixel192",
+      "type": "INT"
+    },
+    {
+      "name": "pixel193",
+      "type": "INT"
+    },
+    {
+      "name": "pixel194",
+      "type": "INT"
+    },
+    {
+      "name": "pixel195",
+      "type": "INT"
+    },
+    {
+      "name": "pixel197",
+      "type": "INT"
+    },
+    {
+      "name": "pixel198",
+      "type": "INT"
+    },
+    {
+      "name": "pixel199",
+      "type": "INT"
+    },
+    {
+      "name": "pixel200",
+      "type": "INT"
+    },
+    {
+      "name": "pixel201",
+      "type": "INT"
+    },
+    {
+      "name": "pixel202",
+      "type": "INT"
+    },
+    {
+      "name": "pixel203",
+      "type": "INT"
+    },
+    {
+      "name": "pixel204",
+      "type": "INT"
+    },
+    {
+      "name": "pixel205",
+      "type": "INT"
+    },
+    {
+      "name": "pixel206",
+      "type": "INT"
+    },
+    {
+      "name": "pixel207",
+      "type": "INT"
+    },
+    {
+      "name": "pixel208",
+      "type": "INT"
+    },
+    {
+      "name": "pixel209",
+      "type": "INT"
+    },
+    {
+      "name": "pixel210",
+      "type": "INT"
+    },
+    {
+      "name": "pixel211",
+      "type": "INT"
+    },
+    {
+      "name": "pixel212",
+      "type": "INT"
+    },
+    {
+      "name": "pixel213",
+      "type": "INT"
+    },
+    {
+      "name": "pixel214",
+      "type": "INT"
+    },
+    {
+      "name": "pixel215",
+      "type": "INT"
+    },
+    {
+      "name": "pixel216",
+      "type": "INT"
+    },
+    {
+      "name": "pixel217",
+      "type": "INT"
+    },
+    {
+      "name": "pixel218",
+      "type": "INT"
+    },
+    {
+      "name": "pixel219",
+      "type": "INT"
+    },
+    {
+      "name": "pixel220",
+      "type": "INT"
+    },
+    {
+      "name": "pixel221",
+      "type": "INT"
+    },
+    {
+      "name": "pixel222",
+      "type": "INT"
+    },
+    {
+      "name": "pixel223",
+      "type": "INT"
+    },
+    {
+      "name": "pixel224",
+      "type": "INT"
+    },
+    {
+      "name": "pixel225",
+      "type": "INT"
+    },
+    {
+      "name": "pixel226",
+      "type": "INT"
+    },
+    {
+      "name": "pixel227",
+      "type": "INT"
+    },
+    {
+      "name": "pixel228",
+      "type": "INT"
+    },
+    {
+      "name": "pixel229",
+      "type": "INT"
+    },
+    {
+      "name": "pixel230",
+      "type": "INT"
+    },
+    {
+      "name": "pixel231",
+      "type": "INT"
+    },
+    {
+      "name": "pixel232",
+      "type": "INT"
+    },
+    {
+      "name": "pixel233",
+      "type": "INT"
+    },
+    {
+      "name": "pixel234",
+      "type": "INT"
+    },
+    {
+      "name": "pixel235",
+      "type": "INT"
+    },
+    {
+      "name": "pixel236",
+      "type": "INT"
+    },
+    {
+      "name": "pixel237",
+      "type": "INT"
+    },
+    {
+      "name": "pixel238",
+      "type": "INT"
+    },
+    {
+      "name": "pixel239",
+      "type": "INT"
+    },
+    {
+      "name": "pixel240",
+      "type": "INT"
+    },
+    {
+      "name": "pixel241",
+      "type": "INT"
+    },
+    {
+      "name": "pixel242",
+      "type": "INT"
+    },
+    {
+      "name": "pixel243",
+      "type": "INT"
+    },
+    {
+      "name": "pixel244",
+      "type": "INT"
+    },
+    {
+      "name": "pixel245",
+      "type": "INT"
+    },
+    {
+      "name": "pixel246",
+      "type": "INT"
+    },
+    {
+      "name": "pixel247",
+      "type": "INT"
+    },
+    {
+      "name": "pixel248",
+      "type": "INT"
+    },
+    {
+      "name": "pixel249",
+      "type": "INT"
+    },
+    {
+      "name": "pixel250",
+      "type": "INT"
+    },
+    {
+      "name": "pixel251",
+      "type": "INT"
+    },
+    {
+      "name": "pixel252",
+      "type": "INT"
+    },
+    {
+      "name": "pixel253",
+      "type": "INT"
+    },
+    {
+      "name": "pixel254",
+      "type": "INT"
+    },
+    {
+      "name": "pixel255",
+      "type": "INT"
+    },
+    {
+      "name": "pixel256",
+      "type": "INT"
+    },
+    {
+      "name": "pixel257",
+      "type": "INT"
+    },
+    {
+      "name": "pixel258",
+      "type": "INT"
+    },
+    {
+      "name": "pixel259",
+      "type": "INT"
+    },
+    {
+      "name": "pixel260",
+      "type": "INT"
+    },
+    {
+      "name": "pixel261",
+      "type": "INT"
+    },
+    {
+      "name": "pixel262",
+      "type": "INT"
+    },
+    {
+      "name": "pixel263",
+      "type": "INT"
+    },
+    {
+      "name": "pixel264",
+      "type": "INT"
+    },
+    {
+      "name": "pixel265",
+      "type": "INT"
+    },
+    {
+      "name": "pixel266",
+      "type": "INT"
+    },
+    {
+      "name": "pixel267",
+      "type": "INT"
+    },
+    {
+      "name": "pixel268",
+      "type": "INT"
+    },
+    {
+      "name": "pixel269",
+      "type": "INT"
+    },
+    {
+      "name": "pixel270",
+      "type": "INT"
+    },
+    {
+      "name": "pixel271",
+      "type": "INT"
+    },
+    {
+      "name": "pixel272",
+      "type": "INT"
+    },
+    {
+      "name": "pixel273",
+      "type": "INT"
+    },
+    {
+      "name": "pixel274",
+      "type": "INT"
+    },
+    {
+      "name": "pixel275",
+      "type": "INT"
+    },
+    {
+      "name": "pixel276",
+      "type": "INT"
+    },
+    {
+      "name": "pixel277",
+      "type": "INT"
+    },
+    {
+      "name": "pixel278",
+      "type": "INT"
+    },
+    {
+      "name": "pixel279",
+      "type": "INT"
+    },
+    {
+      "name": "pixel280",
+      "type": "INT"
+    },
+    {
+      "name": "pixel281",
+      "type": "INT"
+    },
+    {
+      "name": "pixel282",
+      "type": "INT"
+    },
+    {
+      "name": "pixel283",
+      "type": "INT"
+    },
+    {
+      "name": "pixel284",
+      "type": "INT"
+    },
+    {
+      "name": "pixel285",
+      "type": "INT"
+    },
+    {
+      "name": "pixel286",
+      "type": "INT"
+    },
+    {
+      "name": "pixel287",
+      "type": "INT"
+    },
+    {
+      "name": "pixel288",
+      "type": "INT"
+    },
+    {
+      "name": "pixel289",
+      "type": "INT"
+    },
+    {
+      "name": "pixel290",
+      "type": "INT"
+    },
+    {
+      "name": "pixel291",
+      "type": "INT"
+    },
+    {
+      "name": "pixel292",
+      "type": "INT"
+    },
+    {
+      "name": "pixel293",
+      "type": "INT"
+    },
+    {
+      "name": "pixel294",
+      "type": "INT"
+    },
+    {
+      "name": "pixel295",
+      "type": "INT"
+    },
+    {
+      "name": "pixel296",
+      "type": "INT"
+    },
+    {
+      "name": "pixel297",
+      "type": "INT"
+    },
+    {
+      "name": "pixel298",
+      "type": "INT"
+    },
+    {
+      "name": "pixel299",
+      "type": "INT"
+    },
+    {
+      "name": "pixel300",
+      "type": "INT"
+    },
+    {
+      "name": "pixel301",
+      "type": "INT"
+    },
+    {
+      "name": "pixel302",
+      "type": "INT"
+    },
+    {
+      "name": "pixel303",
+      "type": "INT"
+    },
+    {
+      "name": "pixel304",
+      "type": "INT"
+    },
+    {
+      "name": "pixel305",
+      "type": "INT"
+    },
+    {
+      "name": "pixel306",
+      "type": "INT"
+    },
+    {
+      "name": "pixel307",
+      "type": "INT"
+    },
+    {
+      "name": "pixel308",
+      "type": "INT"
+    },
+    {
+      "name": "pixel309",
+      "type": "INT"
+    },
+    {
+      "name": "pixel310",
+      "type": "INT"
+    },
+    {
+      "name": "pixel311",
+      "type": "INT"
+    },
+    {
+      "name": "pixel312",
+      "type": "INT"
+    },
+    {
+      "name": "pixel313",
+      "type": "INT"
+    },
+    {
+      "name": "pixel314",
+      "type": "INT"
+    },
+    {
+      "name": "pixel315",
+      "type": "INT"
+    },
+    {
+      "name": "pixel316",
+      "type": "INT"
+    },
+    {
+      "name": "pixel317",
+      "type": "INT"
+    },
+    {
+      "name": "pixel318",
+      "type": "INT"
+    },
+    {
+      "name": "pixel319",
+      "type": "INT"
+    },
+    {
+      "name": "pixel320",
+      "type": "INT"
+    },
+    {
+      "name": "pixel321",
+      "type": "INT"
+    },
+    {
+      "name": "pixel322",
+      "type": "INT"
+    },
+    {
+      "name": "pixel323",
+      "type": "INT"
+    },
+    {
+      "name": "pixel324",
+      "type": "INT"
+    },
+    {
+      "name": "pixel325",
+      "type": "INT"
+    },
+    {
+      "name": "pixel326",
+      "type": "INT"
+    },
+    {
+      "name": "pixel327",
+      "type": "INT"
+    },
+    {
+      "name": "pixel328",
+      "type": "INT"
+    },
+    {
+      "name": "pixel329",
+      "type": "INT"
+    },
+    {
+      "name": "pixel330",
+      "type": "INT"
+    },
+    {
+      "name": "pixel331",
+      "type": "INT"
+    },
+    {
+      "name": "pixel332",
+      "type": "INT"
+    },
+    {
+      "name": "pixel333",
+      "type": "INT"
+    },
+    {
+      "name": "pixel334",
+      "type": "INT"
+    },
+    {
+      "name": "pixel335",
+      "type": "INT"
+    },
+    {
+      "name": "pixel336",
+      "type": "INT"
+    },
+    {
+      "name": "pixel337",
+      "type": "INT"
+    },
+    {
+      "name": "pixel338",
+      "type": "INT"
+    },
+    {
+      "name": "pixel339",
+      "type": "INT"
+    },
+    {
+      "name": "pixel340",
+      "type": "INT"
+    },
+    {
+      "name": "pixel341",
+      "type": "INT"
+    },
+    {
+      "name": "pixel342",
+      "type": "INT"
+    },
+    {
+      "name": "pixel343",
+      "type": "INT"
+    },
+    {
+      "name": "pixel344",
+      "type": "INT"
+    },
+    {
+      "name": "pixel345",
+      "type": "INT"
+    },
+    {
+      "name": "pixel346",
+      "type": "INT"
+    },
+    {
+      "name": "pixel347",
+      "type": "INT"
+    },
+    {
+      "name": "pixel348",
+      "type": "INT"
+    },
+    {
+      "name": "pixel349",
+      "type": "INT"
+    },
+    {
+      "name": "pixel350",
+      "type": "INT"
+    },
+    {
+      "name": "pixel351",
+      "type": "INT"
+    },
+    {
+      "name": "pixel352",
+      "type": "INT"
+    },
+    {
+      "name": "pixel353",
+      "type": "INT"
+    },
+    {
+      "name": "pixel354",
+      "type": "INT"
+    },
+    {
+      "name": "pixel355",
+      "type": "INT"
+    },
+    {
+      "name": "pixel356",
+      "type": "INT"
+    },
+    {
+      "name": "pixel357",
+      "type": "INT"
+    },
+    {
+      "name": "pixel358",
+      "type": "INT"
+    },
+    {
+      "name": "pixel359",
+      "type": "INT"
+    },
+    {
+      "name": "pixel360",
+      "type": "INT"
+    },
+    {
+      "name": "pixel361",
+      "type": "INT"
+    },
+    {
+      "name": "pixel362",
+      "type": "INT"
+    },
+    {
+      "name": "pixel363",
+      "type": "INT"
+    },
+    {
+      "name": "pixel364",
+      "type": "INT"
+    },
+    {
+      "name": "pixel365",
+      "type": "INT"
+    },
+    {
+      "name": "pixel366",
+      "type": "INT"
+    },
+    {
+      "name": "pixel367",
+      "type": "INT"
+    },
+    {
+      "name": "pixel368",
+      "type": "INT"
+    },
+    {
+      "name": "pixel369",
+      "type": "INT"
+    },
+    {
+      "name": "pixel370",
+      "type": "INT"
+    },
+    {
+      "name": "pixel371",
+      "type": "INT"
+    },
+    {
+      "name": "pixel372",
+      "type": "INT"
+    },
+    {
+      "name": "pixel373",
+      "type": "INT"
+    },
+    {
+      "name": "pixel374",
+      "type": "INT"
+    },
+    {
+      "name": "pixel375",
+      "type": "INT"
+    },
+    {
+      "name": "pixel376",
+      "type": "INT"
+    },
+    {
+      "name": "pixel377",
+      "type": "INT"
+    },
+    {
+      "name": "pixel378",
+      "type": "INT"
+    },
+    {
+      "name": "pixel379",
+      "type": "INT"
+    },
+    {
+      "name": "pixel380",
+      "type": "INT"
+    },
+    {
+      "name": "pixel381",
+      "type": "INT"
+    },
+    {
+      "name": "pixel382",
+      "type": "INT"
+    },
+    {
+      "name": "pixel383",
+      "type": "INT"
+    },
+    {
+      "name": "pixel384",
+      "type": "INT"
+    },
+    {
+      "name": "pixel385",
+      "type": "INT"
+    },
+    {
+      "name": "pixel386",
+      "type": "INT"
+    },
+    {
+      "name": "pixel387",
+      "type": "INT"
+    },
+    {
+      "name": "pixel388",
+      "type": "INT"
+    },
+    {
+      "name": "pixel389",
+      "type": "INT"
+    },
+    {
+      "name": "pixel390",
+      "type": "INT"
+    },
+    {
+      "name": "pixel391",
+      "type": "INT"
+    },
+    {
+      "name": "pixel393",
+      "type": "INT"
+    },
+    {
+      "name": "pixel394",
+      "type": "INT"
+    },
+    {
+      "name": "pixel395",
+      "type": "INT"
+    },
+    {
+      "name": "pixel396",
+      "type": "INT"
+    },
+    {
+      "name": "pixel397",
+      "type": "INT"
+    },
+    {
+      "name": "pixel398",
+      "type": "INT"
+    },
+    {
+      "name": "pixel399",
+      "type": "INT"
+    },
+    {
+      "name": "pixel400",
+      "type": "INT"
+    },
+    {
+      "name": "pixel401",
+      "type": "INT"
+    },
+    {
+      "name": "pixel402",
+      "type": "INT"
+    },
+    {
+      "name": "pixel403",
+      "type": "INT"
+    },
+    {
+      "name": "pixel404",
+      "type": "INT"
+    },
+    {
+      "name": "pixel405",
+      "type": "INT"
+    },
+    {
+      "name": "pixel406",
+      "type": "INT"
+    },
+    {
+      "name": "pixel407",
+      "type": "INT"
+    },
+    {
+      "name": "pixel408",
+      "type": "INT"
+    },
+    {
+      "name": "pixel409",
+      "type": "INT"
+    },
+    {
+      "name": "pixel410",
+      "type": "INT"
+    },
+    {
+      "name": "pixel411",
+      "type": "INT"
+    },
+    {
+      "name": "pixel412",
+      "type": "INT"
+    },
+    {
+      "name": "pixel413",
+      "type": "INT"
+    },
+    {
+      "name": "pixel414",
+      "type": "INT"
+    },
+    {
+      "name": "pixel415",
+      "type": "INT"
+    },
+    {
+      "name": "pixel416",
+      "type": "INT"
+    },
+    {
+      "name": "pixel417",
+      "type": "INT"
+    },
+    {
+      "name": "pixel418",
+      "type": "INT"
+    },
+    {
+      "name": "pixel419",
+      "type": "INT"
+    },
+    {
+      "name": "pixel422",
+      "type": "INT"
+    },
+    {
+      "name": "pixel423",
+      "type": "INT"
+    },
+    {
+      "name": "pixel424",
+      "type": "INT"
+    },
+    {
+      "name": "pixel425",
+      "type": "INT"
+    },
+    {
+      "name": "pixel426",
+      "type": "INT"
+    },
+    {
+      "name": "pixel427",
+      "type": "INT"
+    },
+    {
+      "name": "pixel428",
+      "type": "INT"
+    },
+    {
+      "name": "pixel429",
+      "type": "INT"
+    },
+    {
+      "name": "pixel430",
+      "type": "INT"
+    },
+    {
+      "name": "pixel431",
+      "type": "INT"
+    },
+    {
+      "name": "pixel432",
+      "type": "INT"
+    },
+    {
+      "name": "pixel433",
+      "type": "INT"
+    },
+    {
+      "name": "pixel434",
+      "type": "INT"
+    },
+    {
+      "name": "pixel435",
+      "type": "INT"
+    },
+    {
+      "name": "pixel436",
+      "type": "INT"
+    },
+    {
+      "name": "pixel437",
+      "type": "INT"
+    },
+    {
+      "name": "pixel438",
+      "type": "INT"
+    },
+    {
+      "name": "pixel439",
+      "type": "INT"
+    },
+    {
+      "name": "pixel440",
+      "type": "INT"
+    },
+    {
+      "name": "pixel441",
+      "type": "INT"
+    },
+    {
+      "name": "pixel442",
+      "type": "INT"
+    },
+    {
+      "name": "pixel443",
+      "type": "INT"
+    },
+    {
+      "name": "pixel444",
+      "type": "INT"
+    },
+    {
+      "name": "pixel445",
+      "type": "INT"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "org.wso2.event.ml.10.stream",
+  "version": "1.0.0",
+  "nickName": "",
+  "description": "",
+  "payloadData": [
+    {
+      "name": "pixel344",
+      "type": "INT"
+    },
+    {
+      "name": "pixel345",
+      "type": "INT"
+    },
+    {
+      "name": "pixel346",
+      "type": "INT"
+    },
+    {
+      "name": "pixel347",
+      "type": "INT"
+    },
+    {
+      "name": "pixel348",
+      "type": "INT"
+    },
+    {
+      "name": "pixel349",
+      "type": "INT"
+    },
+    {
+      "name": "pixel350",
+      "type": "INT"
+    },
+    {
+      "name": "pixel351",
+      "type": "INT"
+    },
+    {
+      "name": "pixel352",
+      "type": "INT"
+    }
+  ]
+}

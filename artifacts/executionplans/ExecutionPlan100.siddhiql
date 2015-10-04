@@ -1,0 +1,17 @@
+/* Enter a unique ExecutionPlan */
+@Plan:name('ExecutionPlan100')
+
+/* Enter a unique description for ExecutionPlan */
+-- @Plan:description('ExecutionPlan')
+
+/* define streams/tables and write queries here ... */
+
+@Import('org.wso2.event.ml.100.stream:1.0.0')
+define stream org_wso2_event_ml_100_stream (pixel142 int, pixel143 int, pixel144 int, pixel145 int, pixel146 int, pixel147 int, pixel148 int, pixel149 int, pixel150 int, pixel151 int, pixel152 int, pixel153 int, pixel154 int, pixel155 int, pixel156 int, pixel157 int, pixel158 int, pixel159 int, pixel160 int, pixel161 int, pixel162 int, pixel163 int, pixel164 int, pixel165 int, pixel166 int, pixel167 int, pixel169 int, pixel170 int, pixel171 int, pixel172 int, pixel173 int, pixel174 int, pixel175 int, pixel176 int, pixel177 int, pixel178 int, pixel179 int, pixel180 int, pixel181 int, pixel182 int, pixel183 int, pixel184 int, pixel185 int, pixel186 int, pixel187 int, pixel188 int, pixel189 int, pixel190 int, pixel191 int, pixel192 int, pixel193 int, pixel194 int, pixel195 int, pixel197 int, pixel198 int, pixel199 int, pixel200 int, pixel201 int, pixel202 int, pixel203 int, pixel204 int, pixel205 int, pixel206 int, pixel207 int, pixel208 int, pixel209 int, pixel210 int, pixel211 int, pixel212 int, pixel213 int, pixel214 int, pixel215 int, pixel216 int, pixel217 int, pixel218 int, pixel219 int, pixel220 int, pixel221 int, pixel222 int, pixel223 int, pixel224 int, pixel225 int, pixel226 int, pixel227 int, pixel228 int, pixel229 int, pixel230 int, pixel231 int, pixel232 int, pixel233 int, pixel234 int, pixel235 int, pixel236 int, pixel237 int, pixel238 int, pixel239 int, pixel240 int, pixel241 int, pixel242 int);
+
+@Export('org.wso2.event.prediction.100.stream:1.0.0')
+define stream org_wso2_event_prediction_100_stream (pixel142 int, pixel143 int, pixel144 int, pixel145 int, pixel146 int, pixel147 int, pixel148 int, pixel149 int, pixel150 int, pixel151 int, pixel152 int, pixel153 int, pixel154 int, pixel155 int, pixel156 int, pixel157 int, pixel158 int, pixel159 int, pixel160 int, pixel161 int, pixel162 int, pixel163 int, pixel164 int, pixel165 int, pixel166 int, pixel167 int, pixel169 int, pixel170 int, pixel171 int, pixel172 int, pixel173 int, pixel174 int, pixel175 int, pixel176 int, pixel177 int, pixel178 int, pixel179 int, pixel180 int, pixel181 int, pixel182 int, pixel183 int, pixel184 int, pixel185 int, pixel186 int, pixel187 int, pixel188 int, pixel189 int, pixel190 int, pixel191 int, pixel192 int, pixel193 int, pixel194 int, pixel195 int, pixel197 int, pixel198 int, pixel199 int, pixel200 int, pixel201 int, pixel202 int, pixel203 int, pixel204 int, pixel205 int, pixel206 int, pixel207 int, pixel208 int, pixel209 int, pixel210 int, pixel211 int, pixel212 int, pixel213 int, pixel214 int, pixel215 int, pixel216 int, pixel217 int, pixel218 int, pixel219 int, pixel220 int, pixel221 int, pixel222 int, pixel223 int, pixel224 int, pixel225 int, pixel226 int, pixel227 int, pixel228 int, pixel229 int, pixel230 int, pixel231 int, pixel232 int, pixel233 int, pixel234 int, pixel235 int, pixel236 int, pixel237 int, pixel238 int, pixel239 int, pixel240 int, pixel241 int, pixel242 int, label int);
+
+from org_wso2_event_ml_100_stream#ml:predict('/home/manorama/Desktop/digit-dataset/models-2/100-features.Model.2015-09-28_15-00-53', 'int')
+select *
+insert into org_wso2_event_prediction_100_stream;

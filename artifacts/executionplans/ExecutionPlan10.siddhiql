@@ -1,0 +1,18 @@
+/* Enter a unique ExecutionPlan */
+@Plan:name('ExecutionPlan10')
+
+/* Enter a unique description for ExecutionPlan */
+-- @Plan:description('ExecutionPlan')
+
+/* define streams/tables and write queries here ... */
+
+
+@Import('org.wso2.event.ml.10.stream:1.0.0')
+define stream org_wso2_event_ml_10_stream (pixel344 int, pixel345 int, pixel346 int, pixel347 int, pixel348 int, pixel349 int, pixel350 int, pixel351 int, pixel352 int);
+
+@Export('org.wso2.event.prediction.10.stream:1.0.0')
+define stream org_wso2_event_prediction_10_stream (pixel344 int, pixel345 int, pixel346 int, pixel347 int, pixel348 int, pixel349 int, pixel350 int, pixel351 int, pixel352 int, label int);
+
+from org_wso2_event_ml_10_stream#ml:predict('/home/manorama/Desktop/digit-dataset/models-2/10-features.Model.2015-09-28_14-31-04', 'int')
+select *
+insert into org_wso2_event_prediction_10_stream;
