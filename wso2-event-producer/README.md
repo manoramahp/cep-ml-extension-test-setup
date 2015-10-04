@@ -4,11 +4,13 @@
 2. Copy the event publisher, event receiver, event stream, execution plan definitions
    inside artifacts folder to relevant folders inside CEP_HOME/repository/deployment/server
 
-3. Provide the following values in  Client.java
+3. Unzip the test-dataset-files inside resources/events/ folder
+
+4. Provide the following values in  Client.java
    cepHome
    noOfFeatures : 10, 100, 200, 300, 400, 500, 600, 700
 
-4. Run Client
+5. Run Client
 
 
 ========================================================================
